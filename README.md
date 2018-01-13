@@ -1,5 +1,5 @@
 # AndroidArchitectureStudy
 
-Learn module and air.
+Learn module and aar.
 
-You can read the following article [Android Studio 打包及引用 aar](http://www.androidchina.net/2467.html).
+For better understanding, you can read the following article [Android Studio 打包及引用 aar](http://www.androidchina.net/2467.html).
